@@ -1,3 +1,3 @@
-Community Feed app using NextJS and Stack Overflow API, Client(React) style
+## Experiment
 
-This is Roy Derk's book CH4
+Community Feed app using NextJS and Stack Overflow API, Client(React) style
